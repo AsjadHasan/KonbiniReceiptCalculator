@@ -7,3 +7,4 @@ Round each item's tax down to whole yen.
 Print each item, then the subtotal, 8% tax total, 10% tax total and total before discount.
 If the total is ¥1,000 or more, apply a ¥50 discount. Print the discount and final total.
 This line is changed in local
+This the 2nd line changed in local
